@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/lxdangerdoll/dheliotropic-visualizer",
-  "name": "heliotropic",
+  "name": "heliotropic-visualizer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
